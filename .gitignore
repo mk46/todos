@@ -1,0 +1,6 @@
+.env
+/tmp/
+
+*.exe
+*.o
+*_test.go
