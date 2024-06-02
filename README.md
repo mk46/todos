@@ -24,7 +24,8 @@
 ## How to start the React app?
 
 1. Navigate to the `client` directory and run npm install to download dependencies.
-   ```
+
+   ```bash
     cd client
     npm install
    ```
